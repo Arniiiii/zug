@@ -4,7 +4,7 @@
 #include <zug/transducer/map.hpp>
 #include <zug/transducer/transducer.hpp>
 
-#include <catch2/catch.hpp>
+#include <catch2/catch_all.hpp>
 
 using namespace zug;
 
